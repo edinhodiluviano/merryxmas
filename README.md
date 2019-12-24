@@ -22,4 +22,8 @@ Art taken from https://www.asciiart.eu/holiday-and-events/christmas/trees
 If you copy, credit the original site and author (initials in art)  
 
 A arte foi obtida em https://www.asciiart.eu/holiday-and-events/christmas/trees  
-Se você redistribuir, favor mencione o crédito ao site original e ao autor (iniciais nos desenhos)  
+Se você redistribuir, favor mencione o crédito ao site original e ao autor (iniciais nos desenhos) 
+
+
+## Output
+![exemplo](./sample.png)
