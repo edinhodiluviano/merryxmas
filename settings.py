@@ -1,8 +1,5 @@
 
 
-# https://www.asciiart.eu/holiday-and-events/christmas/trees
-
-
 # snow flakes chars
 SNOWFLAKES = ['*', '*', '.', '°']
 
